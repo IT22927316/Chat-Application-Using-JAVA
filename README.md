@@ -1,15 +1,18 @@
-Java Chat Application - Server and Client
+# Chat Application Using Java
 
-This project is a simple chat application built using Java with Eclipse IDE. It consists of a server and client application, allowing real-time communication between multiple users.
+This is a simple **Java-based chat application** that enables real-time messaging between clients through a server. The project is implemented using **Java Socket Programming** and is built in **Eclipse IDE**.
 
-Features:
+## 🚀 Features
+- Multi-client support via a central server
+- Real-time text messaging
+- Basic message broadcasting
+- Simple command-line interface
 
-Server-side application to manage multiple client connections.
-Client-side application to send and receive messages.
-Real-time messaging functionality with basic message broadcasting.
-Easy-to-use interface (can be further extended with GUI improvements).
+## 🛠 Technologies Used
+- **Java (Socket Programming)**
+- **Eclipse IDE**
 
-Technologies Used:
-
-Java (Socket Programming)
-Eclipse IDE
+## 📥 Installation & Setup
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/IT22927316/Chat-Application-Using-JAVA.git
